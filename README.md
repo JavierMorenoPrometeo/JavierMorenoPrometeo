@@ -19,6 +19,10 @@
 - :school: I am a estudent FP SMR 1º and 2º Master DATA in [Prometeo](https://www.prometeo-fp.com/)
 <br>
 
+
+
+
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
