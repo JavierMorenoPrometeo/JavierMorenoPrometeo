@@ -16,10 +16,14 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a estudent FP SMR 1º and 2º Master DATA in [Prometeo](https://www.prometeo-fp.com/)
-<br>
+After spending several years in the hospitality industry, working with companies like McDonald's, KFC, Pans & Company, and The Fitzgerald Burger Company — where I spent 5 years as a Manager across multiple locations — I developed strong skills in leadership, problem-solving, and working under pressure.
 
+In 2025, I decided to take a bold turn in my career and pursue what truly motivates me: programming and data analysis.
 
+I'm currently focused on building a solid foundation in software development and data science, combining my real-world experience with technical skills to create efficient, data-driven solutions.
+
+- 🎓 Student of FP SMR 1º and 2º Master DATA in [Prometeo](https://www.prometeo-fp.com/)
+- 👨‍💼 Shift Lead at Carrefour
 
 
 
@@ -47,6 +51,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
@@ -87,9 +94,7 @@
 <!--- trophy (start) -->
 
 <div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=JavierMorenoPrometeo&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+
 </div>
 
 <!--- trophy (start) -->
