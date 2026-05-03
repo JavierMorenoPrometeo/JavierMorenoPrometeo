@@ -68,16 +68,13 @@ I'm currently focused on building a solid foundation in software development and
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-<!--- stats & Trophy (start) -->
-
 <p align="left">
-  <!--- stats (start) -->
+  <!--- stats -->
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=JavierMorenoPrometeo&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Javi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierMorenoPrometeo&theme=dark&hide_border=false" /> 
 </td>
 
 
@@ -88,21 +85,10 @@ I'm currently focused on building a solid foundation in software development and
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-
-<div align=left>
-
-</div>
-
-<!--- trophy (start) -->
-</p>        
-<!--- stats (end) -->
 
 <br>
 
-<!--profile visit count-->
 
 <div align="center">
 
